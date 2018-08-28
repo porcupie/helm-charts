@@ -12,6 +12,7 @@ image:
 nameOverride: ""
 fullnameOverride: ""
 
+containerPort: 8000
 service:
   type: ClusterIP
   port: 80
